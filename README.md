@@ -1,7 +1,7 @@
 Olá, eu sou o Samuel e é um prazer tê-lo aqui!
 
 - Ferramentas e Tecnologia 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height:="256px" width="256px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
 
 - 🌱 Atualmente estou me especializando em JavaScript
