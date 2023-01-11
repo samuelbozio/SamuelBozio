@@ -1,12 +1,12 @@
 Olá, eu sou o Samuel e é um prazer tê-lo aqui!
 
-- Ferramentas e Tecnologia: <br><br>
+<h2>Ferramentas e Tecnologia:</h2 <br><br>
             <img height:="32px" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
             <img height:="32px" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
             <img height:="32px" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
             <img height:="32px" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-- Contatos :<br><br>
+<h2>Contatos:</h2><br><br>
             
             
           
