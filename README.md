@@ -11,20 +11,6 @@ Olá, eu sou o Samuel e é um prazer tê-lo aqui!
             <img height="16px" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> Linkedin</a>
             <a href=""
             
-          
-          
-            
-          
 
-    
-          
+- 🌱 Atualmente estou me especializando em Java
 
-
-- 🌱 Atualmente estou me especializando em JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
