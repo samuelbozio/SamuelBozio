@@ -1,4 +1,4 @@
-Olá, eu sou o Samuel e é um prazer tê-lo aqui!
+Olá
 
 <h2>Ferramentas e Tecnologia:</h2>
 
