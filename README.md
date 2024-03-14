@@ -64,14 +64,3 @@
 [mysql]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 
 
-[//]: # (MEDIAS)
-[myGithubStats]: https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbozio&layout=donut&bg_color=0000&border_color=dcdcdc&title_color=fffff0&text_color=dcdcdc
-[gmail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
-
-[//]: # (LINKS)
-[myGithubLink]: https://github.com/samuelbozio
-[myLinkedinLink]: https://www.linkedin.com/in/samuel-bozio-05630b221/
-[myReplitLink]: https://replit.com/@samuelbozio?path=&tab=repls
-[myGithubStatsLink]: https://github.com/samuelbozio/github-readme-stats
